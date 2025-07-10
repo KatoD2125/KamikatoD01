@@ -16,6 +16,7 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 
 - [NazeDev](https://github.com/nazedev) (Pembuat)
 - [Sychyy](https://github.com/sychyy) (KangRecode)
+- [KatoD](https://github.com/KatoD2125) (KangRecodejuga :3)
 - [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
 - [Dani](https://github.com/nazedev) (Penyumbang Code)
 
