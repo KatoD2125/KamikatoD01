@@ -7,12 +7,12 @@ const chalk = require('chalk');
  */
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 //settings owner di ./setown.js
-global.packname = 'SychBotz'
-global.owner = ["62882008702155"]
-global.botnum = ["6287862997267"]
-global.author = 'ydaa'
-global.owname = 'mzyda'
-global.botname = 'SYCHY BOTz'
+global.packname = 'KatoDBotZ'
+global.owner = ["6287793464004"]
+global.botnum = ["6283878157126"]
+global.author = 'aldos'
+global.owname = 'KatoD'
+global.botname = 'KatoD BotZ'
 global.themeemoji = '🪀'
 global.f = '> '
 global.n = '`'
@@ -31,32 +31,32 @@ global.fake = {
 	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/pdf'],
 }
 global.my = {
-	yt: 'https://www.youtube.com/@sychyy00',
-	gh: 'https://github.com/sychyy',
-	gc: 'https://chat.whatsapp.com/GQ5Gp0eSeDS6dPBYeHE6kf',
+	yt: 'https://youtube.com/@kamikaze_06?si=mBH796U1LRzo8DTA',
+	gh: 'https://github.com/KatoD2125',
+	gc: 'https://chat.whatsapp.com/E66XtuY5q6uDSKp6LdIBcp?mode=r_t',
 	ch: '120363383347233294@newsletter',
 }
 global.limit = {
-	free: 999,
-	premium: 999,
+	free: 20,
+	premium: 100,
 	vip: 'VIP'
 }
 global.uang = {
-	free: 100000,
-	premium: 1000000,
+	free: 1000,
+	premium: 10000,
 	vip: 10000000
 }
 global.mess = {
 	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'lu bkn owner',
-	admin: 'lu bkn atmin',
-	botAdmin: 'gw bkn atmin bro',
-	group: 'cma buat grup aj',
-	private: 'cm di prvt cht',
-	prem: 'lu bkn user premium',
-	wait: 'bentar duluu',
-	error: 'eror bro!',
-	done: 'udh lunas yh'
+	owner: 'lu bkn owner tod',
+	admin: 'lu bkn atmin tod',
+	botAdmin: 'gw bkn atmin tod',
+	group: 'cma buat grup aj tod',
+	private: 'cm di prvt cht aj tod',
+	prem: 'lu bkn user premium tod',
+	wait: 'Sabat tod',
+	error: 'eror tod!',
+	done: 'udh lunas yak'
 }
 global.APIs = {
 	hitori: 'https://my.hitori.pw/api',
